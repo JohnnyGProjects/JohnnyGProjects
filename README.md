@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Johnny (Yoseph Gebre)
+# 👋 Hi, I’m Yoseph Gebre
 
 ## Software Developer | Backend Foundations & Streaming-Oriented Client Applications
 
